@@ -11,6 +11,7 @@
 <img align="left" alt="Brian Alcaraz Avatar" width="250" height="300" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/brian5.png">
 
 ## Habilidades Tecnicas
+<img alt="Brian Alcaraz Avatar" width="150" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.png">
 
 <!--
 **HolasoyBrianxd/HolasoyBrianxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
