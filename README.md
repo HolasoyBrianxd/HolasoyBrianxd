@@ -13,9 +13,7 @@
 ## Habilidades Tecnica
 <span style="width: 100;">
     ![Logo HTML](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg)
-</span>
-<span style="width: 100;">
-    ![Logo CSS](imagen2.jpg)
+    ![Logo CSS](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg)
 </span>
 
 
