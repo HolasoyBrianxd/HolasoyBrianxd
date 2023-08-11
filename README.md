@@ -11,8 +11,17 @@
 <img align="left" alt="Brian Alcaraz Avatar" width="250" height="300" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/brian5.png">
 
 ## Habilidades Tecnicas
-<img alt="Logo HTML" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg">
-<img alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg">
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 10px;">
+    <img alt="Logo HTML" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg">
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <img alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg">
+  </div>
+</div>
+
+
+
 
 <!--
 **HolasoyBrianxd/HolasoyBrianxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
