@@ -1,4 +1,4 @@
-![Brian Alcaraz Banner Github](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/banner-github.png)
+![Brian Alcaraz Banner Github](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/banner-github.png)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
