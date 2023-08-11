@@ -22,7 +22,8 @@
     <img alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg">
   </div>
 </div>
-![Imagen 1]([imagen1.jpg](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg)) &nbsp;&nbsp;&nbsp; ![Imagen 2]([imagen2.jpg](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg))
+![Imagen 1](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg) &nbsp;&nbsp;&nbsp; ![Imagen 2](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg)
+
 
 
 
