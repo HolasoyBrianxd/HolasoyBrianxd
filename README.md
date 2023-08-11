@@ -1,4 +1,3 @@
-### Hi there blblabblba👋
 ![Brian Alcaraz Banner Github](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/banner-github.png)
 
 <!--
