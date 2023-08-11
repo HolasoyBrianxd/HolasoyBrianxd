@@ -14,12 +14,10 @@
 
 
 
-<span style="display: inline-block; width: 80;">
-![Logo HTML](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg)
-</span>
-<span style="display: inline-block; width: 80;">
-![Logo CSS](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg)
-</span>
+
+![Logo HTML|100](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg)
+![Logo CSS|100](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg)
+
 
 
 
