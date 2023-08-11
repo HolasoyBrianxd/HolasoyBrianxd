@@ -6,6 +6,8 @@
 
 ### Me apasiona el mundo del desarrollo web y estoy constantemente aprendiendo nuevas habilidades y tecnologías. Me considero una persona proactiva, responsable, detallista, con iniciativa, siempre dispuesta a aprender y mejorar.
 
+<br/>
+
 <img align="left" alt="Brian Alcaraz Avatar" width="250" height="300" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/brian3.png">
 
 ## Habilidades Tecnicas
