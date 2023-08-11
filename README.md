@@ -12,6 +12,7 @@
 
 ## Habilidades Tecnicas
 <img alt="Logo HTML" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg">
+<img alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg">
 
 <!--
 **HolasoyBrianxd/HolasoyBrianxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
