@@ -11,10 +11,10 @@
 <img align="left" alt="Brian Alcaraz Avatar" width="250" height="300" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/brian5.png">
 
 ## Habilidades Tecnica
-<span style="display: inline-block; width: 100;">
+<span style="width: 100;">
     ![Logo HTML](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg)
 </span>
-<span style="display: inline-block; width: 100;">
+<span style="width: 100;">
     ![Logo CSS](imagen2.jpg)
 </span>
 
