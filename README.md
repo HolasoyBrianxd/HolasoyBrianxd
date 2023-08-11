@@ -1,4 +1,4 @@
-[README EN]()
+[README EN](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/README_EN.md)
 
 ![Brian Alcaraz Banner Github](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/banner-github.png)
 
