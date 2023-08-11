@@ -12,10 +12,10 @@
 
 ## Habilidades Tecnicas
 <div style="display: flex;">
-  <div style="flex: 50%; padding: 10px;">
+  <div style="padding: 10px;">
     <img alt="Logo HTML" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg">
   </div>
-  <div style="flex: 50%; padding: 10px;">
+  <div style="padding: 10px;">
     <img alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg">
   </div>
 </div>
