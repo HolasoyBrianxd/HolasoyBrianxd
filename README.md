@@ -18,6 +18,9 @@
   <div style="padding: 10px;">
     <img alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg">
   </div>
+  <div style="padding: 10px;">
+    <img alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg">
+  </div>
 </div>
 
 
