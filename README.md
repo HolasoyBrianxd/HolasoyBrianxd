@@ -1,3 +1,5 @@
+[README ES]()
+
 ![Brian Alcaraz Banner Github](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/banner-github.png)
 
 Soy Desarrollador Web Junior y estudiante de Desarrollo de Software con experiencia en HTML, CSS, JavaScript, Bootstrap 5, WordPress, PHP y MySQL. Actualmente estoy capacitandome en EducacionIT para ser Desarrollador FullStack ReactJS. Asimismo estoy trabajando en mi portfolio por eso decidi crear un pequeño card.  
