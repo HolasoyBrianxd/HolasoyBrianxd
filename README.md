@@ -6,7 +6,7 @@
 
 **Me apasiona el mundo del desarrollo web y estoy constantemente aprendiendo nuevas habilidades y tecnologías. Me considero una persona proactiva, responsable, detallista, con iniciativa, siempre dispuesta a aprender y mejorar.**  
 
-## Habilidades Tecnicas
+### Habilidades Tecnicas
 
 <!--
 **HolasoyBrianxd/HolasoyBrianxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
