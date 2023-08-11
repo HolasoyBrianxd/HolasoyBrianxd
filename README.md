@@ -11,28 +11,8 @@
 <img align="left" alt="Brian Alcaraz Avatar" width="250" height="300" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/brian5.png">
 
 ## Habilidades Tecnica
-![Logo HTML|80](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg)
-![Logo CSS|80](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg)
+![Logo HTML](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg)
+![Logo CSS](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg)
+![Logo JS](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/JavaScript.svg)
+![Logo Bootstrap](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Bootstrap.svg)
 
-
-
-
-
-
-
-
-
-<!--
-**HolasoyBrianxd/HolasoyBrianxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
