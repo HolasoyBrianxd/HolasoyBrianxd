@@ -11,9 +11,6 @@
 <img align="left" alt="Brian Alcaraz Avatar" width="250" height="300" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/brian5.png">
 
 ## Habilidades Tecnicas
-![Logo HTML](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg) 
-![Logo CSS](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg)
-
 <img alt="Logo HTML" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg">
 <img alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg">
 
