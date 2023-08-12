@@ -12,16 +12,14 @@
 
 <h2 align="left"> Habilidades Tecnicas </h2>
 
-<img align="left" alt="Logo HTML" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg" vspace="10">
-<img align="left" alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg" vspace="10">
-<img align="left" alt="Logo Bootstrap" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Bootstrap.svg" vspace="10">
-<img align="left" alt="Logo JavaScript" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/JavaScript.svg" vspace="10">
-<img align="left" alt="Logo WordPress" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Wordpress.svg" vspace="10">  
-<img align="left" alt="Logo PHP" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/PHP-Dark.svg" vspace="10">
-<img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg" vspace="10">
-<img align="left" alt="Logo MongoDB" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MongoDB.svg" vspace="10">
-<img align="left" alt="Logo NodeJS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/NodeJS-Dark.svg" vspace="10">
-<img align="left" alt="Logo GIT" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Git.svg" vspace="10">
-<img align="left" alt="Logo React" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/React-Dark.svg" vspace="10">
-
-
+<img align="left" alt="Logo HTML" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg" vspace="10">
+<img align="left" alt="Logo CSS" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg" vspace="10">
+<img align="left" alt="Logo Bootstrap" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Bootstrap.svg" vspace="10">
+<img align="left" alt="Logo JavaScript" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/JavaScript.svg" vspace="10">
+<img align="left" alt="Logo WordPress" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Wordpress.svg" vspace="10">  
+<img align="left" alt="Logo PHP" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/PHP-Dark.svg" vspace="10">
+<img align="left" alt="Logo MySQL" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg" vspace="10">
+<img align="left" alt="Logo MongoDB" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MongoDB.svg" vspace="10">
+<img align="left" alt="Logo NodeJS" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/NodeJS-Dark.svg" vspace="10">
+<img align="left" alt="Logo GIT" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Git.svg" vspace="10">
+<img align="left" alt="Logo React" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/React-Dark.svg" vspace="10">
