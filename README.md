@@ -16,7 +16,7 @@
 <img align="left" alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg"> 
 <img align="left" alt="Logo Bootstrap" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Bootstrap.svg">
 <img align="left" alt="Logo JavaScript" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/JavaScript.svg">
-<img align="left" alt="Logo WordPress" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Wordpress.svg">
+<img align="left" alt="Logo WordPress" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Wordpress.svg"> <p>&nbsp;</p>
 <img align="left" alt="Logo PHP" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/PHP-Dark.svg">
 <img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
 <img align="left" alt="Logo MongoDB" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MongoDB.svg">
