@@ -35,10 +35,9 @@
 <br/>
 <br/>
 
-> **Note**
+> **Nota**
 > This is a note
 
-> **Warning**
-> This is a warning
+
 
 
