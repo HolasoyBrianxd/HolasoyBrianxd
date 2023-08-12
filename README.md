@@ -36,7 +36,7 @@
 <br/>
 
 > **Note**
-> This is a note
+> You can read the English version here 
 
 
 
