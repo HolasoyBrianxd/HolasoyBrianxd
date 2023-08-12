@@ -38,4 +38,4 @@
 <br/>
 
 > **Note**
-> Podes leer la Version en Español acá [README_EN](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/README.md)
+> Podes leer la Version en Español acá [README_ES](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/README.md)
