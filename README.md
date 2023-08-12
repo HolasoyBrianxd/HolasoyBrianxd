@@ -25,5 +25,20 @@
 <img align="left" alt="Logo MySQL" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg" vspace="10">
 <img align="left" alt="Logo MongoDB" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MongoDB.svg" vspace="10">
 <img align="left" alt="Logo NodeJS" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/NodeJS-Dark.svg" vspace="10">
-<img align="left" alt="Logo GIT" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Git.svg" vspace="10">
+<img align="left" alt="Logo GIT" width="70" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Git.svg" vspace="10">  
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
+
 
