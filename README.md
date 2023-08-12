@@ -37,7 +37,7 @@
 <br/>
 
 > **Note**
-> You can read the English version here 
+> You can read the English version here [README_EN](https://www.google.com).
 
 
 
