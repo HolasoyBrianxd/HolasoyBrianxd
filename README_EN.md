@@ -4,4 +4,6 @@
 
 ### I am a Junior Web Developer and a student of Software Development with experience in HTML, CSS, JavaScript, Bootstrap 5, WordPress, PHP, and MySQL. Currently, I am undergoing training with EducacionIT to become a Full Stack ReactJS Developer. Additionally, I am working on my portfolio, which is why I decided to create a small card.  
 
-### shdsds
+### I am passionate about the world of web development and am constantly learning new skills and technologies. I consider myself a proactive, responsible, detail-oriented individual with initiative, always ready to learn and improve.  
+
+
