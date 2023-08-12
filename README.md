@@ -18,6 +18,7 @@
   <img align="left" alt="Logo JavaScript" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/JavaScript.svg">
   <img align="left" alt="Logo WordPress" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Wordpress.svg">
 </div>
+<p>&nbsp;</p>
 <div>
   <img align="left" alt="Logo PHP" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/PHP-Dark.svg">
   <img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
