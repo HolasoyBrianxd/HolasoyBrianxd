@@ -11,22 +11,18 @@
 <img align="left" alt="Brian Alcaraz Avatar" width="250" height="300" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/brian5.png">
 
 <h2 align="left"> Habilidades Tecnica </h2>
-<div>
-  <img align="left" alt="Logo HTML" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg"> 
-  <img align="left" alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg"> 
-  <img align="left" alt="Logo Bootstrap" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Bootstrap.svg">
-  <img align="left" alt="Logo JavaScript" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/JavaScript.svg">
-  <img align="left" alt="Logo WordPress" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Wordpress.svg">
-</div>
-<p>&nbsp;</p>
-<div>
-  <img align="left" alt="Logo PHP" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/PHP-Dark.svg">
-  <img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
-  <img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
-  <img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
-  <img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
-</div>
 
+<img align="left" alt="Logo HTML" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/HTML.svg"> 
+<img align="left" alt="Logo CSS" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/CSS.svg"> 
+<img align="left" alt="Logo Bootstrap" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Bootstrap.svg">
+<img align="left" alt="Logo JavaScript" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/JavaScript.svg">
+<img align="left" alt="Logo WordPress" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/Wordpress.svg">
+<br/>
+<img align="left" alt="Logo PHP" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/PHP-Dark.svg">
+<img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
+<img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
+<img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
+<img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
 <img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
 <img align="left" alt="Logo MySQL" width="80" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/MySQL-Light.svg">
 
