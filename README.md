@@ -37,7 +37,7 @@
 <br/>
 
 > **Note**
-> <p>You can read the English Version here <a href="https://www.youtube.com/" target="_blank">README_EN</a></p>
+> You can read the English Version here [README_EN](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme/)
 
 
 
