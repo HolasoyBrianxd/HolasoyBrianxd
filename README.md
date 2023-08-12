@@ -37,7 +37,7 @@
 <br/>
 
 > **Note**
-> You can read the English Version here <a href="www.google.com" target="_blank">README_EN</a>
+> <p>You can read the English Version here <a href="www.google.com" target="_blank">README_EN</a></p>
 
 
 
