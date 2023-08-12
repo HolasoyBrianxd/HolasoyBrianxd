@@ -35,7 +35,7 @@
 <br/>
 <br/>
 
-> **Nota**
+> **Note**
 > This is a note
 
 
