@@ -1,14 +1,6 @@
 ![Brian Alcaraz Banner Github](https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/banner-github.png)
 
-<a href="#"><img align="right" alt="Brian Alcaraz Avatar" width="250" height="300" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/brian3.png"></a>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<a href="#"><img align="right" alt="Brian Alcaraz Avatar" width="25%" height="30%" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/brian3.png"></a>
 
 <h3 align="center">
   Soy Desarrollador Web Junior y estudiante de Desarrollo de Software con experiencia en HTML, CSS, JavaScript, Bootstrap 5, WordPress, PHP y MySQL. Actualmente estoy capacitandome en EducacionIT para ser Desarrollador Full Stack ReactJS. Asimismo estoy trabajando en mi portfolio por eso decidi crear un pequeño card.
