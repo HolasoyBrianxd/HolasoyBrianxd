@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="#"><img align="left" alt="Brian Alcaraz Avatar" width="250" height="300" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/brian5.png"></a>
+<a href="#"><img align="left" alt="Brian Alcaraz Avatar" width="275" height="325" src="https://github.com/HolasoyBrianxd/HolasoyBrianxd/blob/main/img/brian5.png"></a>
 
 <h2 align="left"> Habilidades Técnicas </h2>
 
